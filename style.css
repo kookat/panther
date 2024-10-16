@@ -1,0 +1,138 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+.navigate{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background: url(freepik-export-202410101042137SPx.png);
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+.navigate nav{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.navigate img{
+    height: 11rem;
+}
+.navigate a{
+    color: white;
+    font-size: 1.2rem;
+}
+.navigate h1{
+    font-size: 3rem;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 1rem;
+}
+.navigate h3{
+    font-size: 1.5rem;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 0.2rem;
+}
+.space img{
+    width: 900px;
+    padding-left: 9%;
+    border-radius: 6%;
+}
+.space{
+    background: url(freepik-export-20241010104437GwUn.png);
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    text-align: center;
+    justify-content: center;
+}
+.space span{
+    font-size: 0.9rem;
+}
+.space li{
+    padding-right: 9%;
+    padding-left: 19%;
+}
+.space input{
+    color: rgb(54, 19, 19);
+    background-color: blanchedalmond;
+}
+.about{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background: url(freepik-export-20241010104621zUt2.png);
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+.about nav{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.about img{
+    height: 11rem;
+}
+.about a{
+    color: white;
+    font-size: 1.2rem;
+}
+.about h1{
+    font-size: 3rem;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 1rem;
+}
+.about h3{
+    font-size: 1.5rem;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 0.2rem;
+}
+.about p{
+    justify-content: center;
+    text-align: center;
+}
+.about span{
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+}
+.doer{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background: url(freepik-export-20241010104650VEJY.png);
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+.doer nav{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+.doer img{
+    height: 11rem;
+}
+.doer a{
+    color: white;
+    font-size: 1.2rem;
+}
+.doer h1{
+    font-size: 3rem;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 1rem;
+}
+.doer h3{
+    font-size: 1.5rem;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 0.2rem;
+}
+.doer p{
+    justify-content: center;
+    text-align: center;
+}
+.doer span{
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+}
